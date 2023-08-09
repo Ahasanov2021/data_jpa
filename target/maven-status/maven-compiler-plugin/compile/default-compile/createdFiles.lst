@@ -1,0 +1,6 @@
+com\example\ali\student\StudentRepository.class
+com\example\ali\student\StudentService.class
+com\example\ali\student\StudentController.class
+com\example\ali\student\Student.class
+com\example\ali\AliApplication.class
+com\example\ali\student\StudentConfig.class
